@@ -6,9 +6,11 @@
 **Telegram:** @andrei_bobryk  
 [Linkedin](https://www.linkedin.com/in/andrei-bobryk-912409226/)
 ## Briefly About Myself:
-Text
+This is text about myself: my hobby and life priorities
+
 ## My Skills:
 * HTML5, CSS3
+* Basic Git
 * JavaScript Basics
 ## Code example:
 ```
@@ -31,5 +33,5 @@ function peak(arr) {
 
 ### Languages:
 
- * English - Intermediate/Upper-intermediate (according to the online test at
+ * English - A2-B1
  * Russian - Native
