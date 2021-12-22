@@ -30,6 +30,7 @@ function peak(arr) {
 ## Courses:
 
 * HTML and CSS Tutorials
+* Pre-school rolling-scopes-school
 
 ### Languages:
 
