@@ -11,7 +11,7 @@
 I have been doing programming on my own since October 2021. My goal is to gain commercial experience and maximize my potential.
 
 ## My Skills:
-* HTML5, CSS3, Basic JS
+* HTML5, CSS3
 * Basic Git, GitHub 
 * JavaScript Basics
 
@@ -45,5 +45,5 @@ Faculty of Civil Engineering
 * CV
 
 ## Languages:
- * English - A2+
  * Russian - Native
+ * English - A2+
