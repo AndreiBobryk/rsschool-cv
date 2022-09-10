@@ -1,37 +1,49 @@
 # Andrei Bobryk
 ## Junior Fronted Developer
 ## Contact information
+**Location:** Minsk, Belarus
 **Phone:** +375 29 107 96 32  
 **E-mail:** andreibobryk1@gmail.com  
 **Telegram:** @andrei_bobryk  
 [Linkedin](https://www.linkedin.com/in/andrei-bobryk-912409226/)
-## Briefly About Myself:
-This is text about myself: my hobby and life priorities
+
+## Summary:
+I have been doing programming on my own since October 2021. My goal is to gain commercial experience and maximize my potential.
 
 ## My Skills:
 * HTML5, CSS3
-* Basic Git
+* Basic Git, GitHub 
 * JavaScript Basics
+
 ## Code example:
 ```
-function peak(arr) {
-
-  for (let i = 1; i < arr.length - 1; i++) {
-    let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
-    let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
-    if (leftSum === rightSum) {
-      return i;
+function isIsogram(str) {
+    for (let i = 0; i < str.length; i++) {
+        for (let j = i + 1; j < str.length; j++) {
+            if ((str[i] === str[j]) ||
+            (str[i] === str[j].toUpperCase()) ||
+            (str[i] === str[j].toLowerCase()) ) {
+                  return false;
+            }
+        }
     }
-  }
-  return -1;
+    return true;
 }
 ```
 
 ## Courses:
-
 * HTML and CSS Tutorials
+* Computer Science Basics (epam)
+* Pre-school RS-School (studying now)
 
-### Languages:
+## Education:
+**Belarusian National Technical University**
+Faculty of Civil Engineering
+**Qualification:** civil engineer
 
- * English - A2-B1
+## Projects:
+* CV
+
+## Languages:
  * Russian - Native
+ * English - A2+
